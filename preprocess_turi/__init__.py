@@ -1,3 +1,7 @@
+from preprocess_turi import utils
+
+__version__ = '0.0.2'
+
 def get_wordcounts(x):
 	return utils._get_wordcounts(x)
 

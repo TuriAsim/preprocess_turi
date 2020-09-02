@@ -6,7 +6,7 @@ with open('README.md', 'r') as file:
 
 setuptools.setup(
 	name = 'preprocess_turi',   # this should be unqiue
-	version = '0.0.1',
+	version = '0.0.2',
 	author = 'Asim Abbas Turi',
 	author_email = 'asim.abbas2011@gmail.com',
 	description = 'This is the preprocessing package for nlp',
